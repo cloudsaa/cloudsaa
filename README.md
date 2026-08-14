@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Liv
 
-<!--
-**cloudsaa/cloudsaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the Polytechnic University of Tirana  
+42 Network cadet
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS & JavaScript
+- Frontend development & modern frameworks
+- Figma & UI/UX
+- Python
+- C# & game development
+- Linux & systems programming
+
+## Languages & Tools
+
+`C` `Python` `HTML` `CSS` `JavaScript` `C#` `Git` `Linux` `Figma`
+
+## Currently working towards
+
+Building creative, interactive websites and games while strengthening my foundations in computer science and software engineering.
