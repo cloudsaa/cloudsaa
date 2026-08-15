@@ -15,7 +15,7 @@ Computer Engineering student at the Polytechnic University of Tirana
 
 ## Languages & Tools
 
-`C` `Python` `HTML` `CSS` `JavaScript` `C#` `Git` `Linux` `Figma` `Unity` `Aseprite`
+`C` `Python` `HTML` `CSS` `JavaScript` `C#` `Git` `Linux` `Figma` `Unity` `Aseprite` `Tailwind`
 
 ## Currently working towards
 
