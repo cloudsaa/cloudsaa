@@ -1,6 +1,7 @@
 # Hi, I'm Liv
 
-Computer Engineering student at the Polytechnic University of Tirana  
+Computer Engineering student at the Polytechnic University of Tirana
+(Double Diploma with University of Technology of Compiègne)
 42 Network cadet
 
 ## Currently learning
