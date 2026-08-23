@@ -15,7 +15,20 @@ Computer Engineering student at the Polytechnic University of Tirana
 
 ## Languages & Tools
 
-`C` `Python` `HTML` `CSS` `JavaScript` `C#` `Git` `Linux` `Figma` `Unity` `Aseprite` `Tailwind`
+**Languages:**  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+
+**Web Development:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+
+**Game Development:**  
+[![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
+
+**Tools & Platforms:**  
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,git,github,vscode)](https://skillicons.dev)
+
+**Design & Productivity:**  
+[![My Skills](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev)
 
 ## Currently working towards
 
