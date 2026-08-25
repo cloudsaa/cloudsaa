@@ -28,7 +28,7 @@ Computer Engineering student at the Polytechnic University of Tirana
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,git,github,vscode)](https://skillicons.dev)
 
 **Design & Productivity:**  
-[![My Skills](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aseprite,figma,notion)](https://skillicons.dev)
 
 ## Currently working towards
 
