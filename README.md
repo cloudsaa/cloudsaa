@@ -16,7 +16,7 @@ Computer Engineering student at the Polytechnic University of Tirana
 ## Languages & Tools
 
 **Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,csh,py)](https://skillicons.dev)
 
 **Web Development:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
