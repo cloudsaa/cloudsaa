@@ -19,7 +19,7 @@ Computer Engineering student at the Polytechnic University of Tirana
 🎵 **Audio filters & a mini DAW in C**, learning how sound works from the ground up:
 sine waves, WAV files, filters, effects and a small mixer.
 
-- [sine-wav](https://github.com/cloudsaa/sine-wav): generates a 440 Hz sine wave and writes a WAV file by hand
+- [sine-wav](https://github.com/cloudsaa/Sine-wav-file-with-C): generates a 440 Hz sine wave and writes a WAV file by hand
 
 ## Languages & Tools
 
